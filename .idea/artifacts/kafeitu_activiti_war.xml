@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="kafeitu_activiti:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kft-activiti-demo.war">
+      <element id="artifact" artifact-name="kafeitu_activiti:war exploded" />
+    </root>
+  </artifact>
+</component>

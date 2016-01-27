@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28b4ba99-ef0b-4bb6-b095-f70317b4e94a" name="Default" comment="" />
+    <ignored path="kafeitu_activiti.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kafeitu_activiti" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JumpActivityCmd.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/cmd/JumpActivityCmd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#608#609#0" expanded="false" />
+                <element signature="e#667#668#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screen.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/blueprint/plugins/buttons/screen.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DispatcherServletConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/activiti/explorer/servlet/DispatcherServletConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.571428">
+              <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Page.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/util/Page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/util/PageUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkflowTraceService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/activiti/WorkflowTraceService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkflowProcessDefinitionService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/activiti/WorkflowProcessDefinitionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.6557734">
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/entity/account/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/entity/account/Group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/entity/oa/Leave.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml1" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kafeitu_activiti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42655602" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\infosea\IdeaProjects\kafeitu_activiti\src\main\webapp" />
+      <recent name="C:\Users\infosea\IdeaProjects\kafeitu_activiti\src\main\resources" />
+      <recent name="C:\Users\infosea\IdeaProjects\kafeitu_activiti\src\main" />
+      <recent name="C:\Users\infosea\IdeaProjects\kafeitu_activiti\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.kafeitu">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kafeitu_activiti" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="kafeitu" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.26" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="kafeitu_activiti:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_kafeitu_activiti" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55491" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="kafeitu_activiti:war" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.kafeitu" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28b4ba99-ef0b-4bb6-b095-f70317b4e94a" name="Default" comment="" />
+      <created>1447984913205</created>
+      <option name="number" value="Default" />
+      <updated>1447984913205</updated>
+      <workItem from="1447984917308" duration="13971000" />
+      <workItem from="1448005774728" duration="6483000" />
+      <workItem from="1448241073835" duration="14150000" />
+      <workItem from="1448326821257" duration="328000" />
+      <workItem from="1448327245981" duration="3824000" />
+      <workItem from="1448414039378" duration="1329000" />
+      <workItem from="1448436791152" duration="672000" />
+      <workItem from="1448850504404" duration="286000" />
+      <workItem from="1448933312074" duration="773000" />
+      <workItem from="1452062867307" duration="68000" />
+      <workItem from="1452149114403" duration="1201000" />
+      <workItem from="1452475909244" duration="108000" />
+      <workItem from="1452560096519" duration="1386000" />
+      <workItem from="1453775268726" duration="1549000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46128000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284055" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38331574" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284055" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/cmd/JumpActivityCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#608#609#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/blueprint/plugins/buttons/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/activiti/explorer/servlet/DispatcherServletConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/me.kafeitu:demo.activiti:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>me.kafeitu:demo.activiti:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">me.kafeitu:demo.activiti:1.0-SNAPSHOT</node>
+            <node x="137.0" y="0.0">org.jboss.logging:jboss-logging:jar:3.3.0.Final</node>
+            <node x="137.0" y="41.0">com.fasterxml.jackson.core:jackson-databind:jar:2.5.4</node>
+            <node x="302.0" y="41.0">com.fasterxml.jackson.core:jackson-databind:jar:2.5.4/com.fasterxml.jackson.core:jackson-annotations:jar:2.5.0</node>
+            <node x="302.0" y="82.0">com.fasterxml.jackson.core:jackson-databind:jar:2.5.4/com.fasterxml.jackson.core:jackson-core:jar:2.5.4</node>
+            <node x="137.0" y="123.0">org.activiti:activiti-engine:jar:5.19.0</node>
+            <node x="281.0" y="123.0">org.activiti:activiti-engine:jar:5.19.0/org.activiti:activiti-bpmn-converter:jar:5.19.0</node>
+            <node x="281.0" y="164.0">org.activiti:activiti-engine:jar:5.19.0/org.activiti:activiti-process-validation:jar:5.19.0</node>
+            <node x="281.0" y="205.0">org.activiti:activiti-engine:jar:5.19.0/org.activiti:activiti-image-generator:jar:5.19.0</node>
+            <node x="281.0" y="246.0">org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4</node>
+            <node x="438.0" y="246.0">org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4/com.sun.mail:javax.mail:jar:1.5.2</node>
+            <node x="438.0" y="287.0">org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4/javax.activation:activation:jar:1.1.1</node>
+            <node x="281.0" y="328.0">org.activiti:activiti-engine:jar:5.19.0/org.mybatis:mybatis:jar:3.2.5</node>
+            <node x="137.0" y="369.0">org.activiti:activiti-spring:jar:5.19.0</node>
+            <node x="279.0" y="369.0">org.activiti:activiti-spring:jar:5.19.0/org.springframework:spring-tx:jar:4.1.5.RELEASE</node>
+            <node x="279.0" y="410.0">org.activiti:activiti-spring:jar:5.19.0/commons-dbcp:commons-dbcp:jar:1.4</node>
+            <node x="435.0" y="410.0">org.activiti:activiti-spring:jar:5.19.0/commons-dbcp:commons-dbcp:jar:1.4/commons-pool:commons-pool:jar:1.5.4</node>
+            <node x="137.0" y="451.0">org.activiti:activiti-json-converter:jar:5.19.0</node>
+            <node x="326.0" y="451.0">org.activiti:activiti-json-converter:jar:5.19.0/org.activiti:activiti-bpmn-model:jar:5.19.0</node>
+            <node x="326.0" y="492.0">org.activiti:activiti-json-converter:jar:5.19.0/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="326.0" y="533.0">org.activiti:activiti-json-converter:jar:5.19.0/math.geom2d:javaGeom:jar:0.11.1</node>
+            <node x="137.0" y="574.0">org.activiti:activiti-explorer:jar:5.19.0</node>
+            <node x="291.0" y="574.0">org.activiti:activiti-explorer:jar:5.19.0/org.activiti:activiti-crystalball:jar:5.19.0</node>
+            <node x="291.0" y="615.0">org.activiti:activiti-explorer:jar:5.19.0/com.h2database:h2:jar:1.3.176</node>
+            <node x="291.0" y="656.0">org.activiti:activiti-explorer:jar:5.19.0/org.imgscalr:imgscalr-lib:jar:4.2</node>
+            <node x="291.0" y="697.0">org.activiti:activiti-explorer:jar:5.19.0/org.codehaus.groovy:groovy-all:jar:2.4.3</node>
+            <node x="137.0" y="738.0">org.activiti:activiti-modeler:jar:5.19.0</node>
+            <node x="291.0" y="738.0">org.activiti:activiti-modeler:jar:5.19.0/org.activiti:activiti-common-rest:jar:5.19.0</node>
+            <node x="291.0" y="779.0">org.activiti:activiti-modeler:jar:5.19.0/org.springframework.security:spring-security-config:jar:3.2.3.RELEASE</node>
+            <node x="291.0" y="820.0">org.activiti:activiti-modeler:jar:5.19.0/org.springframework.security:spring-security-crypto:jar:3.2.3.RELEASE</node>
+            <node x="291.0" y="861.0">org.activiti:activiti-modeler:jar:5.19.0/org.springframework.security:spring-security-web:jar:3.2.3.RELEASE</node>
+            <node x="291.0" y="902.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7</node>
+            <node x="427.0" y="902.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7/org.apache.xmlgraphics:batik-awt-util:jar:1.7</node>
+            <node x="427.0" y="943.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7/org.apache.xmlgraphics:batik-util:jar:1.7</node>
+            <node x="427.0" y="984.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7/org.apache.xmlgraphics:batik-xml:jar:1.7</node>
+            <node x="291.0" y="1025.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7</node>
+            <node x="452.0" y="1025.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94</node>
+            <node x="536.0" y="1025.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94/org.apache.xmlgraphics:xmlgraphics-commons:jar:1.2</node>
+            <node x="536.0" y="1066.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94/org.apache.avalon.framework:avalon-framework-api:jar:4.3.1</node>
+            <node x="536.0" y="1107.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94/org.apache.avalon.framework:avalon-framework-impl:jar:4.3.1</node>
+            <node x="452.0" y="1148.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:batik-dom:jar:1.7</node>
+            <node x="452.0" y="1189.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:batik-gvt:jar:1.7</node>
+            <node x="452.0" y="1230.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/xml-apis:xml-apis-ext:jar:1.3.04</node>
+            <node x="291.0" y="1271.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7</node>
+            <node x="428.0" y="1271.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-anim:jar:1.7</node>
+            <node x="428.0" y="1312.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-ext:jar:1.7</node>
+            <node x="428.0" y="1353.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-script:jar:1.7</node>
+            <node x="558.0" y="1353.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-script:jar:1.7/org.apache.xmlgraphics:batik-js:jar:1.7</node>
+            <node x="428.0" y="1394.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/xml-apis:xml-apis:jar:1.3.04</node>
+            <node x="291.0" y="1435.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-codec:jar:1.7</node>
+            <node x="291.0" y="1476.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-css:jar:1.7</node>
+            <node x="291.0" y="1517.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-svg-dom:jar:1.7</node>
+            <node x="291.0" y="1558.0">org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-svggen:jar:1.7</node>
+            <node x="137.0" y="1599.0">org.activiti:activiti-rest:jar:5.19.0</node>
+            <node x="264.0" y="1599.0">org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0</node>
+            <node x="465.0" y="1599.0">org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0/org.activiti:activiti-bpmn-layout:jar:5.19.0</node>
+            <node x="644.0" y="1599.0">org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0/org.activiti:activiti-bpmn-layout:jar:5.19.0/org.tinyjee.jgraphx:jgraphx:jar:1.10.4.1</node>
+            <node x="264.0" y="1640.0">org.activiti:activiti-rest:jar:5.19.0/javax.annotation:jsr250-api:jar:1.0</node>
+            <node x="264.0" y="1681.0">org.activiti:activiti-rest:jar:5.19.0/org.springframework.security:spring-security-core:jar:3.2.3.RELEASE</node>
+            <node x="137.0" y="1722.0">org.activiti:activiti-diagram-rest:jar:5.19.0</node>
+            <node x="137.0" y="1763.0">org.activiti:activiti-cxf:jar:5.19.0</node>
+            <node x="258.0" y="1763.0">org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7</node>
+            <node x="366.0" y="1763.0">org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7</node>
+            <node x="484.0" y="1763.0">org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7/javax.xml.bind:jaxb-api:jar:2.1</node>
+            <node x="595.0" y="1763.0">org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="137.0" y="1804.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4</node>
+            <node x="322.0" y="1804.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/xml-resolver:xml-resolver:jar:1.2</node>
+            <node x="322.0" y="1845.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="322.0" y="1886.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-core:jar:3.1.4</node>
+            <node x="433.0" y="1886.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-core:jar:3.1.4/org.apache.ws.xmlschema:xmlschema-core:jar:2.2.1</node>
+            <node x="322.0" y="1927.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4</node>
+            <node x="505.0" y="1927.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-wsdl:jar:3.1.4</node>
+            <node x="630.0" y="1927.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-wsdl:jar:3.1.4/wsdl4j:wsdl4j:jar:1.6.3</node>
+            <node x="505.0" y="1968.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.4</node>
+            <node x="703.0" y="1968.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.4/com.sun.xml.bind:jaxb-core:jar:2.2.11</node>
+            <node x="322.0" y="2009.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-xml:jar:3.1.4</node>
+            <node x="322.0" y="2050.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.4</node>
+            <node x="322.0" y="2091.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4</node>
+            <node x="469.0" y="2091.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.4</node>
+            <node x="622.0" y="2091.0">org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.4/org.apache.neethi:neethi:jar:3.0.3</node>
+            <node x="137.0" y="2132.0">org.apache.cxf:cxf-rt-transports-http:jar:3.1.4</node>
+            <node x="137.0" y="2173.0">org.infinispan:infinispan-core:jar:5.1.7.Final</node>
+            <node x="287.0" y="2173.0">org.infinispan:infinispan-core:jar:5.1.7.Final/org.jgroups:jgroups:jar:3.0.13.Final</node>
+            <node x="287.0" y="2214.0">org.infinispan:infinispan-core:jar:5.1.7.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:1.0.0.Final</node>
+            <node x="287.0" y="2255.0">org.infinispan:infinispan-core:jar:5.1.7.Final/org.jboss.marshalling:jboss-marshalling-river:jar:1.3.11.GA</node>
+            <node x="287.0" y="2296.0">org.infinispan:infinispan-core:jar:5.1.7.Final/org.jboss.marshalling:jboss-marshalling:jar:1.3.11.GA</node>
+            <node x="287.0" y="2337.0">org.infinispan:infinispan-core:jar:5.1.7.Final/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1</node>
+            <node x="287.0" y="2378.0">org.infinispan:infinispan-core:jar:5.1.7.Final/org.codehaus.woodstox:stax2-api:jar:3.1.1</node>
+            <node x="287.0" y="2419.0">org.infinispan:infinispan-core:jar:5.1.7.Final/org.rhq.helpers:rhq-pluginAnnotations:jar:3.0.4</node>
+            <node x="137.0" y="2460.0">commons-io:commons-io:jar:2.4</node>
+            <node x="137.0" y="2501.0">commons-fileupload:commons-fileupload:jar:1.2.2</node>
+            <node x="137.0" y="2542.0">org.springframework:spring-core:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="2583.0">org.springframework:spring-beans:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="2624.0">org.springframework:spring-context:jar:4.2.1.RELEASE</node>
+            <node x="285.0" y="2624.0">org.springframework:spring-context:jar:4.2.1.RELEASE/org.springframework:spring-expression:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="2665.0">org.springframework:spring-context-support:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="2706.0">org.springframework:spring-aop:jar:4.2.1.RELEASE</node>
+            <node x="266.0" y="2706.0">org.springframework:spring-aop:jar:4.2.1.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="137.0" y="2747.0">org.aspectj:aspectjrt:jar:1.6.9</node>
+            <node x="137.0" y="2788.0">org.aspectj:aspectjweaver:jar:1.6.9</node>
+            <node x="137.0" y="2829.0">cglib:cglib:jar:3.2.0</node>
+            <node x="229.0" y="2829.0">cglib:cglib:jar:3.2.0/org.apache.ant:ant:jar:1.9.4</node>
+            <node x="311.0" y="2829.0">cglib:cglib:jar:3.2.0/org.apache.ant:ant:jar:1.9.4/org.apache.ant:ant-launcher:jar:1.9.4</node>
+            <node x="137.0" y="2870.0">asm:asm:jar:3.3.1</node>
+            <node x="137.0" y="2911.0">org.hibernate:hibernate-core:jar:5.0.2.Final</node>
+            <node x="287.0" y="2911.0">org.hibernate:hibernate-core:jar:5.0.2.Final/org.apache.geronimo.specs:geronimo-jta_1.1_spec:jar:1.1.1</node>
+            <node x="287.0" y="2952.0">org.hibernate:hibernate-core:jar:5.0.2.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final</node>
+            <node x="287.0" y="2993.0">org.hibernate:hibernate-core:jar:5.0.2.Final/org.javassist:javassist:jar:3.18.1-GA</node>
+            <node x="287.0" y="3034.0">org.hibernate:hibernate-core:jar:5.0.2.Final/antlr:antlr:jar:2.7.7</node>
+            <node x="287.0" y="3075.0">org.hibernate:hibernate-core:jar:5.0.2.Final/org.jboss:jandex:jar:1.2.2.Final</node>
+            <node x="287.0" y="3116.0">org.hibernate:hibernate-core:jar:5.0.2.Final/dom4j:dom4j:jar:1.6.1</node>
+            <node x="287.0" y="3157.0">org.hibernate:hibernate-core:jar:5.0.2.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.0.Final</node>
+            <node x="137.0" y="3198.0">org.hibernate:hibernate-entitymanager:jar:5.0.2.Final</node>
+            <node x="137.0" y="3239.0">org.springframework.data:spring-data-jpa:jar:1.9.1.RELEASE</node>
+            <node x="292.0" y="3239.0">org.springframework.data:spring-data-jpa:jar:1.9.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.1.RELEASE</node>
+            <node x="137.0" y="3280.0">org.springframework:spring-orm:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="3321.0">org.springframework:spring-jdbc:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="3362.0">org.apache.commons:commons-dbcp2:jar:2.0.1</node>
+            <node x="300.0" y="3362.0">org.apache.commons:commons-dbcp2:jar:2.0.1/org.apache.commons:commons-pool2:jar:2.2</node>
+            <node x="300.0" y="3403.0">org.apache.commons:commons-dbcp2:jar:2.0.1/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="137.0" y="3444.0">mysql:mysql-connector-java:jar:5.1.11</node>
+            <node x="137.0" y="3485.0">org.springframework:spring-web:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="3526.0">org.springframework:spring-webmvc:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="3567.0">javax.servlet:jstl:jar:1.2</node>
+            <node x="137.0" y="3608.0">javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="137.0" y="3649.0">org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="137.0" y="3690.0">org.slf4j:slf4j-log4j12:jar:1.7.5</node>
+            <node x="137.0" y="3731.0">org.slf4j:jcl-over-slf4j:jar:1.7.5</node>
+            <node x="137.0" y="3772.0">log4j:log4j:jar:1.2.17</node>
+            <node x="137.0" y="3813.0">org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="137.0" y="3854.0">commons-beanutils:commons-beanutils:jar:1.8.3</node>
+            <node x="137.0" y="3895.0">com.google.guava:guava:jar:17.0</node>
+            <node x="137.0" y="3936.0">org.jodd:jodd:jar:3.3.2</node>
+            <node x="137.0" y="3977.0">joda-time:joda-time:jar:2.1</node>
+            <node x="137.0" y="4018.0">com.fasterxml.uuid:java-uuid-generator:jar:3.1.3</node>
+            <node x="137.0" y="4059.0">junit:junit:jar:4.10</node>
+            <node x="225.0" y="4059.0">junit:junit:jar:4.10/org.hamcrest:hamcrest-core:jar:1.1</node>
+            <node x="137.0" y="4100.0">org.mockito:mockito-core:jar:1.9.0</node>
+            <node x="279.0" y="4100.0">org.mockito:mockito-core:jar:1.9.0/org.objenesis:objenesis:jar:1.0</node>
+            <node x="137.0" y="4141.0">org.powermock:powermock-module-junit4:jar:1.4.12</node>
+            <node x="355.0" y="4141.0">org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12</node>
+            <node x="629.0" y="4141.0">org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12/org.powermock:powermock-core:jar:1.4.12</node>
+            <node x="629.0" y="4182.0">org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12/org.powermock:powermock-reflect:jar:1.4.12</node>
+            <node x="137.0" y="4223.0">org.powermock:powermock-api-mockito:jar:1.4.12</node>
+            <node x="345.0" y="4223.0">org.powermock:powermock-api-mockito:jar:1.4.12/org.powermock:powermock-api-support:jar:1.4.12</node>
+            <node x="137.0" y="4264.0">org.springframework:spring-test:jar:4.2.1.RELEASE</node>
+            <node x="137.0" y="4305.0">org.dbunit:dbunit:jar:2.4.8</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0" target="org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0/org.activiti:activiti-bpmn-layout:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.2.Final" target="org.hibernate:hibernate-core:jar:5.0.2.Final/org.hibernate.javax.persistence:hibernate-jpa-2.1-api:jar:1.0.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="2967.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="1819.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.jodd:jodd:jar:3.3.2">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3951.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7/org.apache.xmlgraphics:batik-util:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="344.0" y="958.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-beans:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2598.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="cglib:cglib:jar:3.2.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2844.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-spring:jar:5.19.0" target="org.activiti:activiti-spring:jar:5.19.0/org.springframework:spring-tx:jar:4.1.5.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="214.5" y="1942.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.ow2.asm:asm:jar:5.0.4">
+              <point x="0.0" y="0.0" />
+              <point x="214.5" y="1860.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-svggen:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="1573.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.5.4" target="com.fasterxml.jackson.core:jackson-databind:jar:2.5.4/com.fasterxml.jackson.core:jackson-core:jar:2.5.4">
+              <point x="0.0" y="0.0" />
+              <point x="204.5" y="97.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-engine:jar:5.19.0" target="org.activiti:activiti-engine:jar:5.19.0/org.activiti:activiti-bpmn-converter:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="398.5" y="1983.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.10" target="junit:junit:jar:4.10/org.hamcrest:hamcrest-core:jar:1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12" target="org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12/org.powermock:powermock-core:jar:1.4.12">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-json-converter:jar:5.19.0" target="org.activiti:activiti-json-converter:jar:5.19.0/org.activiti:activiti-bpmn-model:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.2.Final" target="org.hibernate:hibernate-core:jar:5.0.2.Final/antlr:antlr:jar:2.7.7">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="3049.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.infinispan:infinispan-core:jar:5.1.7.Final" target="org.infinispan:infinispan-core:jar:5.1.7.Final/org.rhq.helpers:rhq-pluginAnnotations:jar:3.0.4">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="2434.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-anim:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.2.2">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2516.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4/org.apache.cxf:cxf-rt-ws-policy:jar:3.1.4/org.apache.neethi:neethi:jar:3.0.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-svg-dom:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="1532.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.infinispan:infinispan-core:jar:5.1.7.Final" target="org.infinispan:infinispan-core:jar:5.1.7.Final/org.codehaus.woodstox:woodstox-core-asl:jar:4.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="2352.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.commons:commons-dbcp2:jar:2.0.1" target="org.apache.commons:commons-dbcp2:jar:2.0.1/commons-logging:commons-logging:jar:1.1.3">
+              <point x="0.0" y="0.0" />
+              <point x="203.5" y="3418.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7/javax.xml.bind:jaxb-api:jar:2.1" target="org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7" target="org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="junit:junit:jar:4.10">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="4074.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-json-converter:jar:5.19.0" target="org.activiti:activiti-json-converter:jar:5.19.0/commons-collections:commons-collections:jar:3.2.1">
+              <point x="0.0" y="0.0" />
+              <point x="216.5" y="507.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:batik-gvt:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="356.5" y="1204.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="joda-time:joda-time:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3992.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-json-converter:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="466.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-cxf:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="1778.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-frontend-simple:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="214.5" y="2065.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-context:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2639.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.slf4j:jcl-over-slf4j:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3746.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.activiti:activiti-common-rest:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.infinispan:infinispan-core:jar:5.1.7.Final" target="org.infinispan:infinispan-core:jar:5.1.7.Final/org.jboss.marshalling:jboss-marshalling-river:jar:1.3.11.GA">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="2270.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-engine:jar:5.19.0" target="org.activiti:activiti-engine:jar:5.19.0/org.activiti:activiti-image-generator:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="194.0" y="220.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-script:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-script:jar:1.7/org.apache.xmlgraphics:batik-js:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.powermock:powermock-api-mockito:jar:1.4.12">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="4238.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-explorer:jar:5.19.0" target="org.activiti:activiti-explorer:jar:5.19.0/org.codehaus.groovy:groovy-all:jar:2.4.3">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="712.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94/org.apache.avalon.framework:avalon-framework-impl:jar:4.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="479.0" y="1122.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-aop:jar:4.2.1.RELEASE" target="org.springframework:spring-aop:jar:4.2.1.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-ext:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="344.5" y="1327.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.apache.commons:commons-lang3:jar:3.3.2">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3828.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-orm:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3295.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-rest:jar:5.19.0" target="org.activiti:activiti-rest:jar:5.19.0/org.springframework.security:spring-security-core:jar:3.2.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="185.5" y="1696.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-wsdl:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3664.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-rest:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="1614.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12" target="org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12/org.powermock:powermock-reflect:jar:1.4.12">
+              <point x="0.0" y="0.0" />
+              <point x="477.0" y="4197.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-spring:jar:5.19.0/commons-dbcp:commons-dbcp:jar:1.4" target="org.activiti:activiti-spring:jar:5.19.0/commons-dbcp:commons-dbcp:jar:1.4/commons-pool:commons-pool:jar:1.5.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.mockito:mockito-core:jar:1.9.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="4115.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="commons-io:commons-io:jar:2.4">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2475.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.commons:commons-dbcp2:jar:2.0.1" target="org.apache.commons:commons-dbcp2:jar:2.0.1/org.apache.commons:commons-pool2:jar:2.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.2.Final" target="org.hibernate:hibernate-core:jar:5.0.2.Final/org.apache.geronimo.specs:geronimo-jta_1.1_spec:jar:1.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3787.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3500.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4" target="org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4/com.sun.mail:javax.mail:jar:1.5.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.powermock:powermock-module-junit4:jar:1.4.12" target="org.powermock:powermock-module-junit4:jar:1.4.12/org.powermock:powermock-module-junit4-common:jar:1.4.12">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.powermock:powermock-api-mockito:jar:1.4.12" target="org.powermock:powermock-api-mockito:jar:1.4.12/org.powermock:powermock-api-support:jar:1.4.12">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-databind:jar:2.5.4">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="56.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.2.Final" target="org.hibernate:hibernate-core:jar:5.0.2.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.0.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="3172.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-modeler:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="753.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-explorer:jar:5.19.0" target="org.activiti:activiti-explorer:jar:5.19.0/org.imgscalr:imgscalr-lib:jar:4.2">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="671.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="1286.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="javax.servlet:jstl:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3582.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-explorer:jar:5.19.0" target="org.activiti:activiti-explorer:jar:5.19.0/org.activiti:activiti-crystalball:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.aspectj:aspectjweaver:jar:1.6.9">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2803.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94/org.apache.xmlgraphics:xmlgraphics-commons:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-ws-addr:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="214.5" y="2106.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-context:jar:4.2.1.RELEASE" target="org.springframework:spring-context:jar:4.2.1.RELEASE/org.springframework:spring-expression:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="com.fasterxml.uuid:java-uuid-generator:jar:3.1.3">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="4033.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-rest:jar:5.19.0" target="org.activiti:activiti-rest:jar:5.19.0/javax.annotation:jsr250-api:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="185.5" y="1655.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/xml-apis:xml-apis-ext:jar:1.3.04">
+              <point x="0.0" y="0.0" />
+              <point x="356.5" y="1245.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7" target="org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7/javax.xml.bind:jaxb-api:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.2.Final" target="org.hibernate:hibernate-core:jar:5.0.2.Final/org.jboss:jandex:jar:1.2.2.Final">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="3090.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-cxf:jar:5.19.0" target="org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.infinispan:infinispan-core:jar:5.1.7.Final" target="org.infinispan:infinispan-core:jar:5.1.7.Final/org.jgroups:jgroups:jar:3.0.13.Final">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-rest:jar:5.19.0" target="org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:fop:jar:0.94/org.apache.avalon.framework:avalon-framework-api:jar:4.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="479.0" y="1081.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3541.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.infinispan:infinispan-core:jar:5.1.7.Final">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2188.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="917.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7/org.apache.xmlgraphics:batik-xml:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="344.0" y="999.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="1040.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.powermock:powermock-module-junit4:jar:1.4.12">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="4156.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.hibernate:hibernate-entitymanager:jar:5.0.2.Final">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3213.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.springframework.security:spring-security-web:jar:3.2.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="876.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0/org.activiti:activiti-bpmn-layout:jar:5.19.0" target="org.activiti:activiti-rest:jar:5.19.0/org.activiti:activiti-simple-workflow:jar:5.19.0/org.activiti:activiti-bpmn-layout:jar:5.19.0/org.tinyjee.jgraphx:jgraphx:jar:1.10.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="com.google.guava:guava:jar:17.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3910.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.apache.commons:commons-dbcp2:jar:2.0.1">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3377.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-engine:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="138.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="4279.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="commons-beanutils:commons-beanutils:jar:1.8.3">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3869.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.springframework.security:spring-security-config:jar:3.2.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="794.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-engine:jar:5.19.0" target="org.activiti:activiti-engine:jar:5.19.0/org.activiti:activiti-process-validation:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="194.0" y="179.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4" target="org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4/javax.activation:activation:jar:1.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="344.5" y="302.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-spring:jar:5.19.0" target="org.activiti:activiti-spring:jar:5.19.0/commons-dbcp:commons-dbcp:jar:1.4">
+              <point x="0.0" y="0.0" />
+              <point x="193.0" y="425.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/xml-apis:xml-apis:jar:1.3.04">
+              <point x="0.0" y="0.0" />
+              <point x="344.5" y="1409.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-xml:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="214.5" y="2024.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-engine:jar:5.19.0" target="org.activiti:activiti-engine:jar:5.19.0/org.mybatis:mybatis:jar:3.2.5">
+              <point x="0.0" y="0.0" />
+              <point x="194.0" y="343.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.slf4j:slf4j-log4j12:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3705.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.2.Final" target="org.hibernate:hibernate-core:jar:5.0.2.Final/dom4j:dom4j:jar:1.6.1">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="3131.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.infinispan:infinispan-core:jar:5.1.7.Final" target="org.infinispan:infinispan-core:jar:5.1.7.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:jar:1.0.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="2229.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-json-converter:jar:5.19.0" target="org.activiti:activiti-json-converter:jar:5.19.0/math.geom2d:javaGeom:jar:0.11.1">
+              <point x="0.0" y="0.0" />
+              <point x="216.5" y="548.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-engine:jar:5.19.0" target="org.activiti:activiti-engine:jar:5.19.0/org.apache.commons:commons-email:jar:1.4">
+              <point x="0.0" y="0.0" />
+              <point x="194.0" y="261.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-bridge:jar:1.7/org.apache.xmlgraphics:batik-script:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="344.5" y="1368.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-explorer:jar:5.19.0" target="org.activiti:activiti-explorer:jar:5.19.0/com.h2database:h2:jar:1.3.176">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="630.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-aop:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2721.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.jboss.logging:jboss-logging:jar:3.3.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-diagram-rest:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="1737.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-jpa:jar:1.9.1.RELEASE" target="org.springframework.data:spring-data-jpa:jar:1.9.1.RELEASE/org.springframework.data:spring-data-commons:jar:1.11.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-codec:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="1450.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-transcoder:jar:1.7/org.apache.xmlgraphics:batik-dom:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="356.5" y="1163.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-wsdl:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-wsdl:jar:3.1.4/wsdl4j:wsdl4j:jar:1.6.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="cglib:cglib:jar:3.2.0" target="cglib:cglib:jar:3.2.0/org.apache.ant:ant:jar:1.9.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.5.4" target="com.fasterxml.jackson.core:jackson-databind:jar:2.5.4/com.fasterxml.jackson.core:jackson-annotations:jar:2.5.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="javax.servlet:javax.servlet-api:jar:3.1.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3623.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.infinispan:infinispan-core:jar:5.1.7.Final" target="org.infinispan:infinispan-core:jar:5.1.7.Final/org.codehaus.woodstox:stax2-api:jar:3.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="2393.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.springframework.security:spring-security-crypto:jar:3.2.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="835.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.aspectj:aspectjrt:jar:1.6.9">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2762.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-core:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="214.5" y="1901.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework.data:spring-data-jpa:jar:1.9.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3254.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-core:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-core:jar:3.1.4/org.apache.ws.xmlschema:xmlschema-core:jar:2.2.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/xml-resolver:xml-resolver:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-spring:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="384.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.hibernate:hibernate-core:jar:5.0.2.Final">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2926.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.dbunit:dbunit:jar:2.4.8">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="4320.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2680.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.hibernate:hibernate-core:jar:5.0.2.Final" target="org.hibernate:hibernate-core:jar:5.0.2.Final/org.javassist:javassist:jar:3.18.1-GA">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="3008.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.activiti:activiti-explorer:jar:5.19.0">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="589.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.mockito:mockito-core:jar:1.9.0" target="org.mockito:mockito-core:jar:1.9.0/org.objenesis:objenesis:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-css:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="199.0" y="1491.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.apache.cxf:cxf-rt-transports-http:jar:3.1.4">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2147.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.infinispan:infinispan-core:jar:5.1.7.Final" target="org.infinispan:infinispan-core:jar:5.1.7.Final/org.jboss.marshalling:jboss-marshalling:jar:1.3.11.GA">
+              <point x="0.0" y="0.0" />
+              <point x="197.0" y="2311.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="asm:asm:jar:3.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2885.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3336.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.2.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="2557.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="me.kafeitu:demo.activiti:1.0-SNAPSHOT" target="mysql:mysql-connector-java:jar:5.1.11">
+              <point x="0.0" y="0.0" />
+              <point x="53.5" y="3459.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.4" target="org.apache.cxf:cxf-rt-frontend-jaxws:jar:3.1.4/org.apache.cxf:cxf-rt-bindings-soap:jar:3.1.4/org.apache.cxf:cxf-rt-databinding-jaxb:jar:3.1.4/com.sun.xml.bind:jaxb-core:jar:2.2.11">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7" target="org.activiti:activiti-modeler:jar:5.19.0/org.apache.xmlgraphics:batik-parser:jar:1.7/org.apache.xmlgraphics:batik-awt-util:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="cglib:cglib:jar:3.2.0/org.apache.ant:ant:jar:1.9.4" target="cglib:cglib:jar:3.2.0/org.apache.ant:ant:jar:1.9.4/org.apache.ant:ant-launcher:jar:1.9.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8212121212121212" x="-181.0" y="282.0" />
+          <SelectedNodes>
+            <node>org.activiti:activiti-cxf:jar:5.19.0/com.sun.xml.bind:jaxb-xjc:jar:2.1.7/com.sun.xml.bind:jaxb-impl:jar:2.1.7/javax.xml.bind:jaxb-api:jar:2.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/models/leave.model.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/models/leave.model.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/diagrams/dispatch/dispatch.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/diagrams/dispatch/dispatch.bpmn">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6785714">
+          <caret line="1" column="206" selection-start-line="1" selection-start-column="206" selection-end-line="1" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/mysql/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3392857">
+          <caret line="1" column="67" selection-start-line="1" selection-start-column="67" selection-end-line="1" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/stencilset.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/http/converter/StringHttpMessageConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="60" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-files.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.107143">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/dao/ActivitiDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/dao/LeaveDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/conf/DemoDataInitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/webservice/LeaveWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/oa/leave/LeaveEntityManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/oa/leave/LeaveWorkflowService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/oa/leave/ReportBackEndProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26906317">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/oa/leave/VariableCreateListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20697168">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/oa/leave/LeaveManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22766885">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/entity/IdEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28976035">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/activiti/conf/JacksonConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20697168">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/activiti/explorer/servlet/FilterServletOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/activiti/explorer/servlet/GenericResponseWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/activiti/explorer/servlet/WebConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/portable/online.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc-modeler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/decorators.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/editor-app/editor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/blueprint/plugins/buttons/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/web/identify/UseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22766885">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/activiti/form/UsersFormType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18627451">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/activiti/listener/GlobalTaskListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37254903">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/blueprint/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/cmd/JumpActivityCmd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#608#609#0" expanded="false" />
+            <element signature="e#667#668#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/blueprint/plugins/buttons/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/activiti/explorer/servlet/DispatcherServletConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.571428">
+          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/util/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/util/PageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/activiti/WorkflowTraceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="14" selection-start-line="111" selection-start-column="14" selection-end-line="111" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kafeitu/demo/activiti/service/activiti/WorkflowProcessDefinitionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6557734">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>kafeitu_activiti:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2514523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2514523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2514523" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|kafeitu_activiti</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42655602" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-beanutils:commons-beanutils:1.8.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42655602" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
